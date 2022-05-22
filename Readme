@@ -5,6 +5,9 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
 Github Repository: https://github.com/nvudumula/Week-4-Developing-data-products
 
 Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
+
+Presentation: Nit getting uploaded on rpubs and slidify, hence uploaded the ppt.
+
 Description
 
 Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
